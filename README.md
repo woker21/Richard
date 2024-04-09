@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![woker21's GitHub stats](https://github-readme-stats.vercel.app/api?username=woker21&show_icons=true&theme=chartreuse-dark&icon_color=7EFF00)
 <br/>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericel7erek&layout=compact&theme=chartreuse-dark&icon_color=7EFF00)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woker21&layout=compact&theme=chartreuse-dark&icon_color=7EFF00)
