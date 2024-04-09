@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF000000&random=false&width=435&lines=Hello+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
-**Ericel7erek/Ericel7erek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**woker21/woker21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ericel7erek&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cwoker21&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats)
 <br/>
-![Ericel7erek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericel7erek&show_icons=true&theme=chartreuse-dark&icon_color=7EFF00)
+![woker21's GitHub stats](https://github-readme-stats.vercel.app/api?username=woker21&show_icons=true&theme=chartreuse-dark&icon_color=7EFF00)
 <br/>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericel7erek&layout=compact&theme=chartreuse-dark&icon_color=7EFF00)
